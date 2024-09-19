@@ -1,0 +1,2 @@
+# newai
+newai bussines technology
